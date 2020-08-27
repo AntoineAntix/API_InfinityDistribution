@@ -48,34 +48,34 @@
   },
   
   {
-    "name":"",
+    "name":"SRV2KI",
     "type":"APC: Standard",
     "brand":"APC by Schneider Electric",
     "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Standard/SRVxKI.png?raw=true",
-    "description":""
+    "description":"UPS Model: SRV2KI\n\nOutput: \n\nPower Capacity: 1600 W / 2000 VA\nNominal Output Voltage: 220/230/240 VAC\nOutput Frequency Range (sync mode): 47-53 Hz or 57-63 Hz\nTopology and output waveform: Double conversion online; sine wave\nOutput Connections: (4) IEC C13\n\nInput:\n\nNominal Input Voltage: 220/230/240 VAC\nInput Frequency: 40 – 70 Hz\nInput Voltage Range: 110-300 at 60% load\nInput Connection: IEC C14\n\nBatteries:\n\nBattery Type: 12 V / 9 AH X 4\nTypical recharge time: 4 hours to recover to 90% capacity\nRuntime Estimates at full and half load, min: 800W / 1600 W\nHalf Load Runtime (min): 10\nFull Load Runtime (min): 4\n\nCommunication And Management:\n\nDB-9 RS-232: Supports Windows 2000/2003/XP/Vista/2008/7/8, Linux, Unix, and MAC\nIntelligent Slot: Mini slot\nControl panel and audible alarms: Multi-function LCD status and control console\nEmergency power off (EPO): No\n\nSurge Protection And Filtering:\n    \nSurge Energy Rating (Joules): 600 J\n\nPhysical:\n\nDimension DxWxH(mm): 400 x 145 x 238\nWeight (kgs): 16.8\n\nConformance:\n\nRegulatory: CE\nWarranty: 2 years\n"
   },
   
   {
-    "name":"",
+    "name":"SRV3KI",
     "type":"APC: Standard",
     "brand":"APC by Schneider Electric",
     "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Standard/SRVxKI.png?raw=true",
-    "description":""
+    "description":"UPS Model: SRV3KI\n\nOutput:\n\nPower Capacity: 2400 W / 3000 VA\nNominal Output Voltage: 220/230/240 VAC\nOutput Frequency Range (sync mode): 47-53 Hz or 57-63 Hz\nTopology and output waveform: Double conversion online; sine wave\nOutput Connections: (6) IEC C13, (1) C19\n\nInput:\n\nNominal Input Voltage: 220/230/240 VAC\nInput Frequency: 40 – 70 Hz\nInput Voltage Range: 110-300 at 60% load\nInput Connection: IEC C20\n\nBatteries:\n\nBattery Type: 12 V / 9 AH X 6\nTypical recharge time: 4 hours to recover to 90% capacity\nRuntime Estimates at full and half load, min: 1200W / 2400 W\nHalf Load Runtime (min): 10\nFull Load Runtime (min): 4\n\nCommunication And Management:\n\nDB-9 RS-232: Supports Windows 2000/2003/XP/Vista/2008/7/8, Linux, Unix, and MAC\nIntelligent Slot: Mini slot\nControl panel and audible alarms: Multi-function LCD status and control console\nEmergency power off (EPO): No\n\nSurge Protection And Filtering:    \n\nSurge Energy Rating (Joules): 600 J\n\nPhysical:\n\nDimension DxWxH(mm): 425 x 190 x 336\nWeight (kgs): 26.8\n\nConformance:\n\nRegulatory: CE\nWarranty: 2 years\n"
   },
   
   {
-    "name":"",
+    "name":"SRV6KI",
     "type":"APC: Standard",
     "brand":"APC by Schneider Electric",
     "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Standard/SRVxKI.png?raw=true",
-    "description":""
+    "description":"UPS Model: SRV6KI\n\nOutput: \n\nPower Capacity: 6000 W / 6000 VA\nNominal Output Voltage: 220/230/240 VAC\nOutput Frequency Range (sync mode): 60 Hz or 50 Hz +/- 0.1 Hz\nTopology and output waveform: Double conversion online; sine wave\nOutput Connections: Terminal block\n\nInput:\n\nNominal Input Voltage: 220/230/240 VAC\nInput Frequency: 40 – 70 Hz\nInput Voltage Range: 110-300 at 60% load\nInput Connection: Terminal block\n\nBatteries:\n\nBattery Type: 12 V / 7 AH x 16\nTypical recharge time: 4 hours to recover to 90% capacity\nRuntime Estimates at full and half load, min: 3000W / 6000 W\nHalf Load Runtime (min): 10\nFull Load Runtime (min): 3.5\n\nCommunication And Management:\n\nDB-9 RS-232: Supports Windows 2000/2003/XP/Vista/2008/7/8, Linux, Unix, and MAC\nIntelligent Slot: Mini slot\nControl panel and audible alarms: Multi-function LCD status and control console\nEmergency power off (EPO): Yes\n\nSurge Protection And Filtering:    \n\nSurge Energy Rating (Joules): 600 J\n\nPhysical:\n\nDimension DxWxH(mm): 374 x 190 x 685\nWeight (kgs): 54\n\nConformance:\n\nRegulatory: CE\nWarranty: 2 years\n"
   },
   
   {
-    "name":"",
+    "name":"SRV10KI",
     "type":"APC: Standard",
     "brand":"APC by Schneider Electric",
     "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Standard/SRVxKI.png?raw=true",
-    "description":""
+    "description":"UPS Model: SRV10KI\n\nOutput: \n\nPower Capacity: 10,000 W / 10,000 VA\nNominal Output Voltage: 220/230/240 VAC\nOutput Frequency Range (sync mode): 60 Hz or 50 Hz +/- 0.1 Hz\nTopology and output waveform: Double conversion online; sine wave\nOutput Connections: Terminal block\n\nInput:\n\nNominal Input Voltage: 220/230/240 VAC\nInput Frequency: 40 – 70 Hz\nInput Voltage Range: 110-300 at 60% load\nInput Connection: Terminal block\n\nBatteries:\n\nBattery Type: 12 V / 9 AH x 16\nTypical recharge time: 4 hours to recover to 90% capacity\nRuntime Estimates at full and half load, min: 5000 W / 10,000 W\nHalf Load Runtime (min): 7\nFull Load Runtime (min): 2\n\nCommunication And Management:\n\nDB-9 RS-232: Supports Windows 2000/2003/XP/Vista/2008/7/8, Linux, Unix, and MAC\nIntelligent Slot: Mini slot\nControl panel and audible alarms: Multi-function LCD status and control console\nEmergency power off (EPO): Yes\n\nSurge Protection And Filtering:   \n \nSurge Energy Rating (Joules): 600 J\n\nPhysical:\n\nDimension DxWxH(mm): 447 x 190 x 685\nWeight (kgs): 65\n\nConformance:\n\nRegulatory: CE\nWarranty: 2 years\n"
   }
 ]
