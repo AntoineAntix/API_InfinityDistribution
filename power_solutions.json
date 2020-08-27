@@ -37,5 +37,45 @@
     "brand":"APC by Schneider Electric ",
     "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Line%20Interactive/SMVxAI-GR.png?raw=true",
     "description":"UPS Models: SMV3000AI-GR\n\nOutput:\n\nPower Capacity: 2100 W / 3000 VA\nNominal Output Voltage: 230\nOutput Frequency Range (Batt. Mode): 50 Hz or 60 Hz ± 1 Hz\nTopology and output waveform: Line Interactive; sine wave\nTransfer Time: 2 – 6 ms, Typical\nOutput Connections: (6) IEC C13 or (4) Schuko or (6) Universal\n\nInput:\n\nInput Voltage: 220 – 240 VAC\nInput Frequency: 50/60 Hz (auto sensing) ±1Hz\nInput Voltage Range: 165-295 Vac±8Vac\nInput Connection: IEC C20\n\nBatteries:\n\nBattery Type: Maintenance-free sealed lead-acid battery\nTypical recharge time: 4-6 hours recover to 90% capacity\nFull Load Runtime (min): > 2 Mins 30 Secs\nBattery Connector: Yes\n\nCommunication And Management:\n\nUSB Port: Supports Windows® 2000/2003/XP/Vista/2008/7\nRS-232: Yes\nLCD Display: AC Mode, AVR Mode, Battery Mode, Battery Level, Load Level, Input Voltage, Output Voltage, System Error, Battery Malfunction\n\nPhysical:\n\nDimension DxWxH(mm): 455*180*240\nWeight (kgs): 28.9\n\nConformance:\n\nRegulatory: CE\nWarranty: 2 years\n"
+  },
+  
+  {
+    "name":"SRV1KI",
+    "type":"APC: Standard",
+    "brand":"APC by Schneider Electric",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Standard/SRVxKI.png?raw=true",
+    "description":"UPS Model: SRV1KI\n\nOutput:\n \nPower Capacity: 800 W / 1000 VA\nNominal Output Voltage: 220/230/240 VAC\nOutput Frequency Range (sync mode): 47-53 Hz or 57-63 Hz\nTopology and output waveform: Double conversion online; sine wave\nOutput Connections: (3) IEC C13\n\nInput:\n\nNominal Input Voltage: 220/230/240 VAC\nInput Frequency: 40 – 70 Hz\nInput Voltage Range: 110-300 at 60% load\nInput Connection: IEC C14\n\nBatteries:\n\nBattery Type: 12 V / 9 AH X 2\nTypical recharge time: 4 hours to recover to 90% capacity\nRuntime Estimates at full and half load, min: 400W / 800 W\nHalf Load Runtime (min): 10\nFull Load Runtime (min): 4\n\nCommunication And Management:\n\nDB-9 RS-232: Supports Windows 2000/2003/XP/Vista/2008/7/8, Linux, Unix, and MAC\nIntelligent Slot: Mini slot\nControl panel and audible alarms: Multi-function LCD status and control console\nEmergency power off (EPO): No\n\nSurge Protection And Filtering:\n    \nSurge Energy Rating (Joules): 600 J\n\nPhysical:\n\nDimension DxWxH(mm): 288 x 145 x 223\nWeight (kgs): 9.3\n\nConformance:\n\nRegulatory: CE\nWarranty: 2 years\n"
+  },
+  
+  {
+    "name":"",
+    "type":"APC: Standard",
+    "brand":"APC by Schneider Electric",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Standard/SRVxKI.png?raw=true",
+    "description":""
+  },
+  
+  {
+    "name":"",
+    "type":"APC: Standard",
+    "brand":"APC by Schneider Electric",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Standard/SRVxKI.png?raw=true",
+    "description":""
+  },
+  
+  {
+    "name":"",
+    "type":"APC: Standard",
+    "brand":"APC by Schneider Electric",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Standard/SRVxKI.png?raw=true",
+    "description":""
+  },
+  
+  {
+    "name":"",
+    "type":"APC: Standard",
+    "brand":"APC by Schneider Electric",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Standard/SRVxKI.png?raw=true",
+    "description":""
   }
 ]
