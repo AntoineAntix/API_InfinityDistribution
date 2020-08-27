@@ -1,17 +1,169 @@
 [
   {
-    "name":"",
-    "type":"",
-    "brand":"",
+    "name":"FollowMe",
+    "type":"Software",
+    "brand":"FollowMe",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/FollowMe/FollowMe.png?raw=true",
+    "description":"FollowMe working with print devices from any manufacture. FollowMe provides the widest range of document output features for head office, branch office and mobile printing environments."
+  },
+  
+  {
+    "name":"Monochrome Laser",
+    "type":"Lexmark Supplies",
+    "brand":"Lexmark",
+    "img":"",
+    "description":"50F5000:\nYield Value 1500\nCompatible Product: MS310dn, MS312dn, MS410dn, MS415dn, MS510dn, MS610dn\n\n50F5X00:\nYield Value 10000\nCompatible Product: MS410dn, MS415dn, MS510dn, MS610dn\n\n50F5U00:\nYield Value: 20000\nCompatible Product: MS510dn, MS610dn, MS510de, MS510dte\n\n52D5000:\nYield Value: 6000\nCompatible Product: MS810dn, MS810de, MS811dn, MS812de\n\n52D5H00:\nYield Value: 25000\nCompatible Product: MS810, MS811, MS812\n\n52D5X00:\nYield Value: 45000\nCompatible Product: MS811, MS812\n\n54G0H00:\nYield Value: 32500\nCompatible Product: MS911de\n\n64G0H00:\nYield Value: 32500\nCompatible Product: MX910de, MX911de, MX912de\n\n62D5000:\nYield Value: 6000\nCompatible Product: MX710, MX711, MX810, MX811, MX812\n\n62D5H00:\nYield Value: 25000\nCompatible Product: MX710, MX711, MX810, MX811, MX812\n\n62D5X00:\nYield Value: 45000\nCompatible Product: MX711, MX810, MX811, MX812\n\n60F5000:\nYield Value: 2500\nCompatible Product: MX310dn, MX410de, MX510de, MX511de, MX611de\n\n60F5000:\nYield Value: 2500\nCompatible Product: MX310, MX410, MX510, MX511, Mx611\n\n60F5000:\nYield Value: 2500\nCompatible Product: MX310, MX410, MX510, MX611\n"
+  },
+  
+  {
+    "name":"Color Laser",
+    "type":"Lexmark Supplies",
+    "brand":"Lexmark",
     "img":"",
     "description":""
   },
   
   {
     "name":"",
-    "type":"",
-    "brand":"",
+    "type":"Mono Laser",
+    "brand":"Lexmark",
     "img":"",
     "description":""
+  },
+  
+  {
+    "name":"MS312dn",
+    "type":"Mono Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/MS312dn.png?raw=true",
+    "description":"The Lexmark MS312dn combines a powerful processor, flexible network connectivity, two-line LCD display, eco-conscious features and output at up to 33 pages per minute.\n\nFeatures:\n\nPrint complex documents fast:\n                Together, a powerful 800 MHz dual-core processor and 128 MB of memory easily handle complex documents.\n\nReliable performance:\n                Easily print up to 2,500 pages per month, plus enjoy fewer maintenance hassles, thanks to our state-of-the-art paper handling.\n\nRun jobs without interruption:\n                An optional second tray raises input capacity to 850 sheets, so that you won’t have to add paper as often.\n\nGet work done quickly:\n                Enjoy print speeds up to 33 pages per minute plus print your first page in as little as 6.5 seconds.\n\nMobile printing:\n                Support for AirPrint gives iOS device users mobile printing, while optional Wi-Fi untethers the printer from physical network connections.\n\nTwo-line LCD Display:\n                Monitor device and job status and configure special features via two-line APA display.\n"
+  },
+  
+  {
+    "name":"MS415dn",
+    "type":"Mono Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/MS415dn.png?raw=true",
+    "description":"The Lexmark MS415dn combines a powerful processor, 256 MB of memory, 6 cm (2.4-inch) colour display, eco-conscious features and output at up to 38 pages per minute.\n\nFeatures:\n\nPrint complex documents fast:\n                Together, a powerful 800 MHz dual-core processor and 256 MB of memory easily handle complex documents.\n\nReliable performance:\n                Easily print up to 7,200 pages per month, plus enjoy fewer maintenance hassles, thanks to our state-of-the-art paper handling.\n\nRun jobs without interruption:\n                An optional second tray raises input capacity to 850 sheets, while an optional 10,000-page toner cartridge reduces supply-replacement downtime.\n\nGet work done quickly:\n                Enjoy print speeds up to 38 pages per minute plus print your first page in as little as 6.5 seconds.\n\nMobile printing:\n                Use the Lexmark Mobile Print app from any iOS or Android device, or Air Print from any iOS product.\n\nColor display 6 cm (2.4-inch):\n                Monitor device and job status and use with the keypad to enable Confidential Print for output security.\n"
+  },
+  
+  {
+    "name":"MS510dn",
+    "type":"Mono Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/MS510dn.png?raw=true",
+    "description":"The Lexmark MS510dn network-ready laser printer has internal two-sided printing, an 800 MHz dual-core processor, 256MB of standard memory, 350-sheet standard input, a print speed of up to 42 ppm.\n\nFeatures:\n\nFast Set Up:\n                Instructions are easy. You’ll be up and running in minutes.\n\nHigh Resolution Graphics:\n                With up to true 1200×1200 dpi resolution, images and graphics stay crisp. Lexmark’s Unison Toner™ ensures consistent quality, too.\n\nControl Panel with Number Pad:\n                Stay informed on your jobs with our easy-to-read 6 cm (2.4 inch) colour LCD display.\n\nInnovative Toner that Optimizes Performance:\n                Get greater system performance with Lexmark’s Unison™ Toner, which delivers consistent image quality from first print to last.\n\nPrint Complex Documents Fast:\n                Print documents containing graphics and images effortlessly with up to 1.2 GB of memory, powerful 800 MHz dual-core processor and Gigabit Ethernet.\n"
+  },
+  
+  {
+    "name":"MS811dn",
+    "type":"Mono Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/MS811dn.png?raw=true",
+    "description":"The Lexmark MS811dn network-ready laser printer with internal two-sided printing, an 800 MHz dual-core processor and 512MB of memory prints up to 60 ppm.\n\nFeatures: \n\nFaster Processing:\n                Improve your print speeds by taking advantage of up to 2.5 GB of memory, an 800 MHz dual-core processor and Gigabit Ethernet.\n\nReliable High Performance:\n                Print up to 75,000 pages per month and enjoy fewer maintenance hassles with our state-of-the-art paper handling.\n\nKeep Jobs Moving:\n                With a maximum input capacity of up to 4,400 sheets and an extra high yield toner cartridge, you’ll rarely have to add paper or change cartridges.\n\nSpend Less Time Waiting:\n                Print up to 60 pages per minute, and produce your first page in as little as 4.4 seconds.\n\nPrint on a Wide Range of Media:\n                With built-in two-sided printing and the ability to print on diverse materials, you can do more for your business and use less paper.\n"
+  },
+  
+  {
+    "name":"MS911de",
+    "type":"Mono Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/MS911de.png?raw=true",
+    "description":"High-volume output, long-life replaceable components, solid security, advanced finishing and SRA3 / 12×18″ capability make the MS911de the ultimate large-format monochrome printer from Lexmark.\n\nFeatures:\n\nLarge format:\n                Show the big picture that typical printers can’t produce, with SRA3 / 12×18″ capability.\n\nEnterprise volume:\n                Meet your most demanding output requirements with 55 pages per minute, input capacity up to 6,650 pages and a 300,000-page maximum monthly duty cycle.\n\nSustainability:\n                Reduce your environmental footprint with long-life replaceable components, fast wake-up, energy-saving modes and duplex printing.\n\nConnectivity:\n                Connect nearly everyone with Gigabit Ethernet, USB and optional parallel ports plus optional wireless and mobile printing.\n\nAdvanced finishing:\n                Stapling, offset stacking, hole-punching and both trifold and saddle-stitched booklets give users finishing options for many different needs.\n\nLexmark e-Task interface:\n                Access on-screen solutions to customise the user experience, integrate with other devices and meet business process needs.\n"
+  },
+  
+  {
+    "name":"MX911de",
+    "type":"Multifunction Mono Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/MX911de.png?raw=true",
+    "description":"With output up to 55 ppm and a 300,000-page maximum monthly duty cycle, the Lexmark MX911de is a step up in large-format multifunction products from Lexmark.\n\nFeatures:\n\nLarge format:\n                Show the big picture that typical printers can’t produce, with SRA3 / 12×18″ capability.\n\nEnterprise volume:\n                Meet your most demanding output requirements with up to 55 pages per minute, input capacity up to 6,650 pages and a 300,000-page maximum monthly duty cycle.\n\nSustainability:\n                Long-life replaceable components, fast wake-up, energy-saving modes and duplex printing reduce your environmental footprint.\n\nConnectivity:\n                Connect nearly everyone with Gigabit Ethernet, USB and optional parallel ports plus optional wireless and mobile printing.\n"
+  },
+  
+  {
+    "name":"MX812dfe",
+    "type":"Multifunction Mono Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/MX812dfe.png?raw=true",
+    "description":"The Lexmark MX812dfe MFP with a customisable e-Task touch screen provides print, copy, fax, scan and email functions. Included are a staple finisher, 1,200-sheet standard input, 1GB of standard memory and a 320+GB hard disk.\n\nFeatures:\n\nFaster Processing:\n                Improve your print, scan and copy speeds by taking advantage of up to 3 GB of upgradeable memory, an 800 MHz dual-core processor and Gigabit Ethernet\n\nPrint on a Wide Range of Media:\n                With built-in two-sided printing and the ability to print on diverse materials, you can do more for your business and use less paper.\n\nLarge Touch Screen:\n                A vibrant, easy-to-use 10 inch class (25 cm) colour touch screen provides access to pre-installed workflow solutions.\n\nReliable High Performance:\n                Easily print up to 100,000 pages per month, and enjoy fewer maintenance hassles, thanks to state-of-the-art paper handling.\n\nGet Work Done Quickly:\n                Enjoy print and copy speeds of 66 pages per minute, plus produce your first page in as little as 4 seconds and rapidly scan a two-sided document in a single pass.\n"
+  },
+  
+  {
+    "name":"MX410de",
+    "type":"Multifunction Mono Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/MX410de.png?raw=true",
+    "description":"The Lexmark MX410de MFP with print, copy, email, fax and scan functions prints up to 38 ppm. Included are two-sided printing and 300 sheets of input.\n\nFeatures:\n\nFaster Processing:\n                Improve your print, scan and copy speeds by taking advantage of up to 2.5 GB of upgradable memory, an 800 MHz dual-core processor and Gigabit Ethernet.\n\nReliable Performance:\n                Easily print up to 10,000 pages per month, plus enjoy fewer maintenance hassles, thanks to our state-of-the-art paper handling.\n\nGet Work Done Quickly:\n                Enjoy print speeds up to 38 pages per minute, plus print or copy your first page in as little as 6.5 seconds.\n\nSmart and Easy to Use:\n                A 10.9 cm (4.3 inch) colour touch screen provides access to pre-installed productivity solutions and operates through smart and intuitive navigation.\n\nFront USB Port:\n                Print without a PC using our convenient USB port that lets you walk up, preview and print PDFs and many other file formats.\n"
+  },
+  
+  {
+    "name":"MX310dn",
+    "type":"Multifunction Mono Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/MX310dn.png?raw=true",
+    "description":"The network-ready Lexmark MX310dn MFP with two-sided printing includes 256MB standard printer memory and has print, copy and scan speeds as fast as 33 ppm.\n\nFeatures:\n\nFaster Processing:\n                Improve your print, scan and copy speeds by taking advantage of 256 MB of memory and an 800 MHz dual-core processor.\n\nReliable Performance:\n                Easily print up to 6,000 pages per month, plus enjoy fewer maintenance hassles, thanks to our state-of-the-art paper handling.\n\nKeep Jobs Moving:\n                With a maximum input capacity of up to 850 sheets and a high yield toner cartridge, you won’t have to add paper or change cartridges as often.\n\nGet Work Done Quickly:\n                Enjoy print speeds up to 33 pages per minute, plus print or copy your first page in as little as 6.5 seconds.\n\nHigh Resolution Graphics:\n                With up to true 1200×1200 dpi resolution, images and graphics stay crisp. Lexmark’s Unison™ Toner ensures consistent quality, too.\n"
+  },
+  
+  {
+    "name":"CS310dn",
+    "type":"Color Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/CS310dn.png?raw=true",
+    "description":"The network-ready Lexmark CS310dn MFP with two-sided printing provides print, copy and scan functions, has a print speed as fast as 23 ppm and includes a 6-cm (2.4-inch) colour display.\n\nFeatures:\n\nFreedom to Print on the Fly:\n                Produce professional colour in-house, on demand. With 512 MB of upgradable memory and a fast dual-core processor, you’ll have speed as well as power and convenience.\n\nProfessional Colour Matching:\n                Lexmark Named Color Replacement and PANTONE® calibration make it easy to develop a consistent brand image by accurately matching your colours.\n\nHigh Resolution Graphics:\n                With up to true 1200×1200 dpi resolution, images and graphics stay crisp. Lexmark’s Unison™ Toner ensures consistent quality, too.\n\nSuper-Fast and Quiet Output:\n                Quickly print and copy up to 23 pages per minute in black and colour, plus produce a one-page colour document in as little as 12.5 seconds.\n\nReliable Performance:\n                Easily print up to 5,000 pages per month, plus enjoy fewer maintenance hassles, thanks to our state-of-the-art paper handling.\n"
+  },
+  
+  {
+    "name":"CS410dn",
+    "type":"Color Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/CS410dn.png?raw=true",
+    "description":"The small and quiet Lexmark CS410dn network-ready colour laser printer with two-sided printing standard, an 800 MHz dual-core processor and 256MB of standard memory prints at up to 30 ppm black and colour.\n\nFeatures:\n\nPrint Complex Documents Fast:\n                Print documents with graphics and images effortlessly with 256 MB of upgradable memory and a fast dual-core processor.\n\nProfessional Colour Matching:\n                Lexmark Named Color Replacement and PANTONE® calibration make it easy to develop a consistent brand image by accurately matching your colours.\n\nHigh Resolution Graphics:\n                With up to true 1200×1200 dpi resolution, images and graphics stay crisp. Lexmark’s Unison™ Toner ensures consistent quality, too.\n\nSuper-Fast and Quiet Output:\n                Power through projects with print speeds up to 30 pages per minute in black and colour, plus produce a 1-page colour document in as little as 10 seconds.\n\nReliable Performance:\n                Easily print up to 6,000 pages a month, plus enjoy fewer maintenance hassles, thanks to our state-of-the-art paper handling.\n"
+  },
+  
+  {
+    "name":"CS720de",
+    "type":"Color Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/CS720de.png?raw=true",
+    "description":"The Lexmark CS720de offers workgroup-level printing performance in a simple, feature-rich package that’s as easy to use as a personal output device.\n\nFeatures:\n\nQuad core power:\n                A 1.2 GHz quad core processor with up to 3 GB of memory gives the CS720 a powerful print controller.\n\nExceptional colour:\n                Professional colour features like ultra-sharp 4800 Colour Quality, PANTONE® calibration and Lexmark Colour Replacement work with Unison Toner to deliver precision matching of critical hues.\n\nSolutions flexibility:\n                Lexmark-exclusive Cloud Solution Framework (cSF) and Embedded Solutions Framework (eSF) applications make the printer programmable to meet the needs of each customer and industry.\n\nVersatile media handling:\n                Media loading and feeding are engineered for ease, reliability and versatility, with up to 650 pages of standard input capacity (expandable to 2,300), small-media and banner-length support and exceptionally durable input trays that resist misfeeds.\n\nLight touchscreen:\n                A bright, 10.9-cm (4.3-inch) colour touch screen features an ultra-smooth surface and can be activated by almost anything, including pens, fingertips or nails –without pressure or direct skin contact.\n\nUnison™ Toner:\n                Essential to Lexmark print system performance, Unison™ Toner’s unique formulation consistently delivers outstanding image quality, ensures long-life print system reliability and promotes superior sustainability — all in an innovative shake-free print system.\n"
+  },
+  
+  {
+    "name":"C950de",
+    "type":"Color Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/C950de.png?raw=true",
+    "description":"Designed for your busy workgroup, the Lexmark C950de features professional quality A3 colour printing, flexible features.\n\nFeatures:\n\nOutstanding A3 Colour Output:\n                PANTONE® calibration helps ensure consistent colour tones and Named Color Replacement makes colour matching easy.\n\nExceptional Media Handling:\n                Ultra-reliable paper feeding lets you load up to six different media types, including banner support up to 120 cm and weights up to 300 gsm.\n\nAdvanced Finishing Options:\n                Easily create professional output in-house with flexible finishing options, including multi-position stapling, hole punch, expanded output stacking, and booklet capability.\n\nFlexible Input Capacity:\n                Flexible input capacity enables you to choose the configuration that best fits your needs, up to a maximum of 5,140 sheets.\n\nIntuitive Colour Touch Screen:\n                The intuitive 10.9 cm (4.3 inch) colour touch screen allows you to operate your printer with ease through intuitive navigation and easy access to workflow solutions and shortcuts.\n\nBuilt for Business:\n                Simplify device monitoring and administration through the Lexmark Universal Print Driver, and Lexmark MarkVision Enterprise.\n"
+  },
+  
+  {
+    "name":"CX310dn",
+    "type":"Multifunction Color Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/CX310dn.png?raw=true",
+    "description":"The network-ready Lexmark CX310n MFP with two-sided printing provides print, copy and scan functions, has a print speed as fast as 23 ppm and includes a 6-cm (2.4-inch) colour display.\n\nFeatures:\n\nFreedom to Print on the Fly:\n                Produce professional colour in-house, on demand. With 512 MB of upgradable memory and a fast dual-core processor, you’ll have speed as well as power and convenience.\n\nProfessional Colour Matching:\n                Lexmark Named Color Replacement and PANTONE® calibration make it easy to develop a consistent brand image by accurately matching your colours.\n\nHigh Resolution Graphics:\n                With up to true 1200×1200 dpi resolution, images and graphics stay crisp. Lexmark’s Unison™ Toner ensures consistent quality, too.\n\nSuper-Fast and Quiet Output:\n                Quickly print and copy up to 23 pages per minute in black and colour, plus produce a one-page colour document in as little as 12.5 seconds.\n\nReliable Performance:\n                Easily print up to 5,000 pages per month, plus enjoy fewer maintenance hassles, thanks to our state-of-the-art paper handling.\n"
+  },
+  
+  {
+    "name":"CX410de",
+    "type":"Multifunction Color Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/CX410de.png?raw=true",
+    "description":"The network-ready Lexmark CX410de MFP with a colour touch screen and a print speed as fast as 30 ppm with two-sided printing lets you copy, scan and fax.\n\nFeatures:\n\nFreedom to Print on the Fly:\n                Produce professional colour in-house, on demand. With 512 MB of upgradable memory and a fast dual-core processor, you’ll print fast, too.\n\nProfessional Colour Matching:\n                Lexmark Named Color Replacement and PANTONE® calibration make it easy to develop a consistent brand image by accurately matching your colours.\n\nHigh Resolution Graphics:\n                With up to true 1200×1200 dpi resolution, images and graphics stay crisp. Lexmark’s Unison™ Toner ensures consistent quality, too.\n\nSuper Fast and Quiet Output:\n                Quickly print, copy and scan up to 30 pages per minute in black and colour, plus produce a one-page colour document in as little as 11.5 seconds.\n\nSmart Touch Screen:\n                The beautiful 10.9 cm (4.3 inch) colour touch screen lets you easily manage jobs and add workflow solutions.\n"
+  },
+  
+  {
+    "name":"CX725dhe",
+    "type":"Multifunction Color Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/CX725dhe.png?raw=true",
+    "description":"The Lexmark CX725dhe offers workgroup-level printing performance, advanced scanning, time-saving OCR capabilities and a hard drive for enhanced functionality in a compact, easy-to-use package\n\nFeatures:\n\nQuad core power:\n                A 1.2 GHz quad core processor with up to 4 GB of memory gives the CX725 a powerful print controller.\n\nExceptional colour:                Professional colour features including ultra-sharp 4800 Colour Quality, PANTONE® calibration and Lexmark Colour Replacement work with Unison Toner to deliver precision matching of critical hues.\n\nSolutions flexibility:\n                Lexmark-exclusive Cloud Solution Framework (cSF) and Embedded Solutions Framework (eSF) applications make the MFP programmable to meet the needs of each customer and industry.\n\nVersatile media handling:\n                Media loading and feeding are engineered for ease, reliability and versatility, with up to 650 pages of input capacity (expandable to 2,300), small-media and banner-length support and exceptionally durable input trays that resist misfeeds.\n\nLight touchscreen:\n                A bright, 17.8-cm (7-inch) colour touch screen features an ultra-smooth surface and can be activated by almost anything, including pens, fingertips or nails –without pressure or direct skin contact.\n\nAdvanced scanning:\n                Automatic de-skew, mixed-size scanning, page-level jam recovery, integrated file compression and OCR make the CX725 a scanning power tool.\n"
+  },
+  
+  {
+    "name":"X950de",
+    "type":"Multifunction Color Laser",
+    "brand":"Lexmark",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Printing/Lexmark/Hardware/X950de.png?raw=true",
+    "description":"Elevate your productivity with the Lexmark X950de, featuring print speed up to 45 ppm, high-performance A3 colour functionality, flexible features, easy-to-use workflow solutions and advanced security\n\nFeatures:\n\nIntuitive Colour Touch screen:\n                The extra large 10 inch class (25 cm) colour touch screen allows you to operate your MFP with ease through intuitive navigation and easy access to workflow solutions.\n\nExceptional Media Handling:\n                Ultra-reliable paper feeding lets you load up to six different media types, including banner support up to 120 cm and weights up to 300 gsm.\n\nAdvanced Finishing Options:\n                Easily create professional output in-house with flexible finishing options, including multi-position stapling, hole punch, expanded output stacking, and booklet capability.\n\nOutstanding A3 Colour Output:\n                PANTONE® calibration helps ensure consistent colour tones and Named Color Replacement makes colour matching easy.\n\nProductive and Intuitive:\n                Scan to multiple destinations: scan to e-mail, scan to FTP, scan to fax, scan to network, scan to USB drive, and more.\n\nProtecting Your Information:\n                Multilayered security features help protect your devices, your documents, your information, and your network infrastructure.\n"
   }
 ]
