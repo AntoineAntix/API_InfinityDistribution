@@ -11,5 +11,19 @@
     "type":"Dahua Switches",
     "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Networking/Dahua%20Switches/DH-PFS%203210%20-8GT%20-DP.png?raw=true",
     "description":"Industrial switch\nHigh EMC protection and lightning protection design\nNon-blocking video transmission\n45V~57V DC wide voltage design\nIP40 full metal enclosure, fully-sealed and dust proof design\n-30°C~+85°C wide working temperature design\nLightning protection up to level 4"
-  }
+  },
+  
+  {
+    "name":"PFM922",
+    "type":"Dahua Cables",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Networking/Dahua%20Cables/PFM%20922.png?raw=true",
+    "description":"Copper clad aluminum conductor\n305m UTP CAT6"
+  },
+  
+  {
+    "name":"PFM920I-6UN",
+    "type":"Dahua Cables",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Networking/Dahua%20Cables/PFM%20920I-6UN.png?raw=true",
+    "description":"305m UTP CAT6;\nSupport PoE long-distance transmission;\nExcellent OFC with 99.99% OFC (oxygen free copper) purity;\nEnvironmentally-friendly outer sheath, meet the CPR E /UL-CM class;\nTop-notch quality guarantee for 10 years."
+  },
 ]
