@@ -1,17 +1,65 @@
 [
   {
-    "name":"",
-    "type":"",
-    "brand":"",
-    "img":"",
-    "description":""
+    "name":"Solo",
+    "type":"Qmatic Software",
+    "brand":"Qmatic",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Queuing%20/Qmatic/Software/Solo.png?raw=true",
+    "description":"The simplest, most powerful queue management solution for improving operational efficiency and customer satisfaction in your environment.\n\nThe single location customer journey management platform.\n\nDesigned for on premise deployment, our modular, stand-alone system organizes queues and provides valuable management information. Solo is a cost-effective, easy to install solution that streamlines and informs your service environment, and scales with you as your needs change.\n\nDisplay relevant information with digital signage\n\nSolo connects with LCD screens to communicate text, images and other relevant information to customers, patients and citizens in your waiting and service environments. It can be integrated with Qmatic and third party digital signage solutions. Our unique solution, Cinematic, allows you to control where messages appear and to plug in any type of video feed to create better flow, lower perceived wait time, and happier people.\n\nMobile notifications reduce the need to wait in line\n\nSolo Mobile allows customers to join the queue by entering their contact information in a self-check-in kiosk. Then, rather than standing in a line, they can enjoy their wait time productively. The system uses the information to generate e-mail messages, alerts, and SMS messages that enable employees to summon each customer when it is his or her turn.\n"
   },
   
   {
-    "name":"",
-    "type":"",
-    "brand":"",
-    "img":"",
-    "description":""
-  }
+    "name":"Solo Wifi",
+    "type":"Qmatic Software",
+    "brand":"Qmatic",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Queuing%20/Qmatic/Software/Solo%20Wifi.png?raw=true",
+    "description":"Solo Wi-Fi Kit offers you the possibility to run your Solo system in a wireless environment.\nCombined with our Mobile Connect for Solo and Spotlight\napplications, you will get a powerful ready to use solution, covering all\nyour Customer Journey Management needs.\n\nFeatures:\n\nUsed together with an Intro 5, Intro 8, TP Button, or TP Touch  printer, mounted on a P3311 pedestal.\nQuick to install, just connect power.\nWith the Solo Wi-Fi Kit, you can:\n\nWith ease get your Solo system up and running in a wireless environment.\n"
+  },
+  
+  {
+    "name":"Orchestra Enterprise Solution",
+    "type":"Qmatic Software",
+    "brand":"Qmatic",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Queuing%20/Qmatic/Software/Orchestra%20Entreprise%20Solution.png?raw=true",
+    "description":"Orchestra is an enterprise customer journey management platform for improved personal customer experiences.\nDesigned for the future with more features, more capacity and the highest performance in the industry.\nBuilt for organizations with complex requirements, many and/or large premises and a need to manage solutions centrally.\nUsed by large, international customers in Finance, Retail, Healthcare and the Public sector.\nDesigned using Qmatic’s more than 30 years of experience in customer journey management.\n"
+  },
+  
+  {
+    "name":"TP Button",
+    "type":"Qmatic Hardware",
+    "brand":"Qmatic",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Queuing%20/Qmatic/Hardware/TP%20Button.png?raw=true",
+    "description":"Qmatic TP Button is a network ticket printer for the solutions Orchestra, Ensemble Virtua, Solo Virtua and Q-WIN.\nThe printer has large tactile buttons making it easy for visitors to select a service.\nThis version of the printer is used without a licence. When MyQmatic and a licence are added, the printer is instead called Solo Virtual Button.\n For more information, please see the Solo Virtua Button Data Sheet, found on the Partner Portal.\n\nFeatures:\n\nEthernet connection\nThermal print head, no ink or toner\n0-5 ticket buttons\nSupports all Windows fonts\nTactile buttons\nWith the Qmatic TP Button, you can Print tickets in any language\n"
+  },
+  
+  {
+    "name":"TP Touch",
+    "type":"Qmatic Hardware",
+    "brand":"Qmatic",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Queuing%20/Qmatic/Hardware/TP%20Touch.png?raw=true",
+    "description":"Qmatic TP Touch is a network ticket printer for the solutions Orchestra, Ensemble Virtua, Solo Virtua and Q-WIN. The 7-inch colour LCD touch screen with a built-in web browser makes it possible to display a wide range of information.\nThe built-in web browser can display information from any standard web server together with information from the local queue server. The information is displayed on the same page to provide the best possible customer service.\nThis version of the printer is used without a licence. When MyQmatic and a licence are added, the printer is instead called Solo Virtua Touch. For more information, please see the Solo Virtua Touch Data Sheet, found on the Partner Portal.\n\nFeatures:\n\nEthernet connection\n7-inch colour LCD touch screen\nBuilt-in web browser\nThermal print head, no ink or toner\nSupports all Windows fonts\n\nWith the Qmatic TP Touch, you can:\n\nPrint tickets in any language\nDisplay system information\nDisplay HTML pages from any web server\nUse a dynamical number of ticket buttons: a button can automatically be removed from the screen when the corresponding service is closed\n"
+  },
+  
+  {
+    "name":"Intro 5",
+    "type":"Qmatic Hardware",
+    "brand":"Qmatic",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Queuing%20/Qmatic/Hardware/Intro%205.png?raw=true",
+    "description":"Intro 5 is a network ticket printer for the solutions Orchestra and Solo.\nThe printer has large tactile buttons making it easy for visitors to select a service.\nThis version of the printer is used without a licence when operating as a client printer. \nWhen MyQmatic and a licence are added, the printer is instead called Solo.\nFor more information, please see the Solo Data Sheet, found on Qmatic World.\n\nFeatures:\n\nEthernet connection\nThermal print head, no ink or toner\n1-5 ticket buttons\nSupports all Windows fonts\nTactile buttons\nWith the Intro 5, you can  Print tickets in any language\n"
+  },
+  
+  {
+    "name":"Intro 8",
+    "type":"Qmatic Hardware",
+    "brand":"Qmatic",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Queuing%20/Qmatic/Hardware/Intro%208.png?raw=true",
+    "description":"Intro 8 is a network ticket printer for the solutions Orchestra and Solo. \nThe 8-inch colour LCD capacitive touch screen with a built-in web browser makes it possible to display a wide range of information.\nThe built-in web browser can display information from any standard web server together with information from the local queue server.\nThe information is displayed on the same page to provide the best possible customer service. This version of the printer is used without a licence when operating as a client printer. \nWhen MyQmatic and a licence are added, the printer is instead called Solo. \nFor more information, please see the Solo Data Sheet, found on Qmatic World.\n\nFeatures:\n\nEthernet connection\n8-inch color LCD capacitive touch screen\nBuilt-in web browser\nThermal print head, no ink or toner\nSupports all Windows fonts\nWith the Intro 8, you can Print tickets in any language\nDisplay system information\nDisplay HTML pages from any web server\nUse a dynamical number of ticket buttons: a button can automatically be removed from the screen when the corresponding service is closed\n"
+  },
+  
+  {
+    "name":"Intro 17 Generation 2",
+    "type":"Qmatic Hardware",
+    "brand":"Qmatic",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Queuing%20/Qmatic/Hardware/Intro%2017%20Generation%202.png?raw=true",
+    "description":"Qmatic Intro 17 Generation 2 is a Linux based customer service point for Orchestra/Solo systems.\nIt is used to present customers with choices and print tickets.\nQmatic Intro 17 Generation 2 is equipped with a 17” LCD with a touch screen which makes it possible to design very informative and attractive displays.\nIntro 17 Generation 2 is built on the powerful and flexible Hub platform, which means that in excess of the standard printer functionality, you get the same functionality as in Hub.\nThe included ticket printer is a network printer that can print tickets in any language. Qmatic Intro 17 Generation 2 can be placed on a floor pedestal, on a table, or hung on a wall.\n\nFeatures:\n\nEnabling distributed operations\nLinux based\n17-inch color LED LCD with projective capacitive touch screen.\nCompletely flat glass top surface\nEthernet connection\nBuilt-in web browser\nSupport for all languages\nBuilt in camera and loudspeakers\niBeacon ready\nExterior color is silver (aluminum) and black glass\nOptional stands for wall, table and floor mounting\nOptional signboards for the pedestal for a logotype, text, etc\nOptional magnetic card reader for customer identification\nOptional ceiling connection kit for routing cables from the ceiling\n"
+  },
 ]
