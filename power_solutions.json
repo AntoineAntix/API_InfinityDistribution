@@ -77,5 +77,37 @@
     "brand":"APC by Schneider Electric",
     "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Standard/SRVxKI.png?raw=true",
     "description":"UPS Model: SRV10KI\n\nOutput: \n\nPower Capacity: 10,000 W / 10,000 VA\nNominal Output Voltage: 220/230/240 VAC\nOutput Frequency Range (sync mode): 60 Hz or 50 Hz +/- 0.1 Hz\nTopology and output waveform: Double conversion online; sine wave\nOutput Connections: Terminal block\n\nInput:\n\nNominal Input Voltage: 220/230/240 VAC\nInput Frequency: 40 – 70 Hz\nInput Voltage Range: 110-300 at 60% load\nInput Connection: Terminal block\n\nBatteries:\n\nBattery Type: 12 V / 9 AH x 16\nTypical recharge time: 4 hours to recover to 90% capacity\nRuntime Estimates at full and half load, min: 5000 W / 10,000 W\nHalf Load Runtime (min): 7\nFull Load Runtime (min): 2\n\nCommunication And Management:\n\nDB-9 RS-232: Supports Windows 2000/2003/XP/Vista/2008/7/8, Linux, Unix, and MAC\nIntelligent Slot: Mini slot\nControl panel and audible alarms: Multi-function LCD status and control console\nEmergency power off (EPO): Yes\n\nSurge Protection And Filtering:   \n \nSurge Energy Rating (Joules): 600 J\n\nPhysical:\n\nDimension DxWxH(mm): 447 x 190 x 685\nWeight (kgs): 65\n\nConformance:\n\nRegulatory: CE\nWarranty: 2 years\n"
+  },
+  
+  {
+    "name":"APC EASY UPS BV 500VA-GR",
+    "type":"APC: Offline",
+    "brand":"APC by Schneider Electric",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Offline/APC%20Easy%20UPS%20BV%20500VA-GR.png?raw=true",
+    "description":"UPS Models: BV500I\n\nOutput:\n\nPower Capacity: 300 W/500 VA\nOutput Voltage on Battery: 230 VAC ± 10%\nOutput Frequency Range (Sync. Mode): 50 Hz or 60 Hz ± 1 Hz\nTopology and output waveform: Line Interactive\nOutput Connections: (6) IEC battery backup outlets\n\nInput:\n\nInput Voltage Range: 170 – 280 (V)\nAC Input Fuse: 5A\nCord Length: 1.5 (m)\nInput Connection: IEC\n\nBatteries:\n\nBattery Type: (Maintenance-free) 12 V/4.5 Ah X 1\nTypical recharge time: 6-8 hours\n\nRuntime Estimates:\n\n120 W Runtime (min): 5\n180 W Runtime (min): 3\n240 W Runtime (min): 0.5\n\nPhysical & Warranty:\n\nDimension DxWxH(cm): 9.25*16.05*30.5\nWeight (kgs): 3.9 \nWarranty: 2 years\n"
+  },
+  
+  {
+    "name":"APC EASY UPS BV 650VA-GR",
+    "type":"APC: Offline",
+    "brand":"APC by Schneider Electric",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Offline/APC%20Easy%20UPS%20BV%20xVA-GR.png?raw=true",
+    "description":"UPS Model: BV650I\n\nOutput:\n\nPower Capacity: 375 W/650 VA\nOutput Voltage on Battery: 230VAC +/- 10%\nOutput Frequency Range (sync mode): 50 Hz or 60 Hz +/- 1 Hz\nTopology and output waveform: Line interactive\nOutput Connections: (6) IEC battery backup outlets\n\nInput:\n\nInput Voltage Range: 170-280 (V)\nAC Input Fuse: 5A\nCord Length: 1.5 (m)\nInput Connection: IEC\n\nBatteries:\n\nBattery Type(maintenance-free): 12 V/7 AH x 1\nTypical Recharge Time: 6-8 hours\n\nRuntime Estimates:\n\n120 W Runtime (min): 10\n180 W Runtime (min): 6\n240 W Runtime (min): 2\n\nPhysical & Warranty:\n\nDimensions DxWxH(cm): 9.25 x 16.05 x 30.5\nWeight (kg): 4.5\nWarranty: 2 Years\n"
+  },
+  
+  {
+    "name":"APC EASY UPS BV 800VA-GR",
+    "type":"APC: Offline",
+    "brand":"APC by Schneider Electric",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Offline/APC%20Easy%20UPS%20BV%20xVA-GR.png?raw=true",
+    "description":"UPS Model: BV800I\n\nOutput:\n\nPower Capacity: 450 W/800 VA\nOutput Voltage on Battery: 230VAC +/- 10%\nOutput Frequency Range (sync mode): 50 Hz or 60 Hz +/- 1 Hz\nTopology and output waveform: Line interactive\nOutput Connections: (6) IEC battery backup outlets\n\nInput:\n\nInput Voltage Range: 170-280 (V)\nAC Input Fuse: 10A\nCord Length: 1.5 (m)\nInput Connection: IEC\n\nBatteries:\n\nBattery Type(maintenance-free): 12 V/7 Ah x 1\nTypical Recharge Time: 6-8 hours\n\nRuntime Estimates:\n\n120 W Runtime (min): 15\n180 W Runtime (min): 9\n240 W Runtime (min): 2.5\n\nPhysical & Warranty:\n\nDimensions DxWxH(cm): 9.25 x 16.05 x 30.5 \nWeight (kg): 5.3\nWarranty: 2 Years\n"
+  },
+  
+  {
+    "name":"APC EASY UPS BV 1000VA-GR",
+    "type":"APC: Offline",
+    "brand":"APC by Schneider Electric",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Offline/APC%20Easy%20UPS%20BV%20xVA-GR.png?raw=true",
+    "description":"UPS Model: BV1000I\n\nOutput:\n\nPower Capacity: 600 W/1000 VA\nOutput Voltage on Battery: 230VAC +/- 10%\nOutput Frequency Range (sync mode): 50 Hz or 60 Hz +/- 1 Hz\nTopology and output waveform: Line interactive\nOutput Connections: (6) IEC battery backup outlets\n\nInput:\n\nInput Voltage Range: 170-280 (V)\nAC Input Fuse: 10A\nCord Length: 1.5 (m)\nInput Connection: IEC\n\nBatteries:\n\nBattery Type(maintenance-free): 12 V/9Ah X 1\nTypical Recharge Time: 6-8 hours\n\nRuntime Estimates:\n\n120 W Runtime (min): 17\n180 W Runtime (min): 10\n240 W Runtime (min): 2.5\n\nPhysical & Warranty:\n\nDimensions DxWxH(cm): 9.25 x 16.05 x 30.5\nWeight (kg): 5.7\nWarranty: 2 Years\n"
   }
 ]
