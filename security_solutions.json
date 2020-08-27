@@ -22,4 +22,92 @@
     "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20NVR/NVR%20616-64:128-4KS2.png?raw=true",
     "description":"Intel Processor\nMax 64/128 IP Camera Inputs\nMax 384Mbps Incoming Bandwidth\nUp to 12MP Resolution for Preview and Playback\nSupports RAID 0/1/5/6/10\niSCSI and Mini SAS for Expanded Storage Space\nSmart Tracking and Intelligent Video\n"
   },
+  
+  {
+    "name":"DH-IPC-HFW2531T-ZAS/VFAS",
+    "type":"Dahua IP Cameras",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20IP%20Cameras/DH-IPC-HFW%202531T-ZAS:VFAS.png?raw=true",
+    "description":"DH-IPC-HFW2531T-ZAS/VFAS\nBullet camera\n1/2.7” 5Megapixel progressive CMOS\nH.265 & H.264 dual-stream encoding\n20fps@5M (2592×1944) &25/30fps@3M (2304×1296)\nWDR(120dB), Day/Night(ICR), 3DNR, AWB, AGC, BLC\nMultiple network monitoring: Web viewer, CMS(DSS/PSS) & DMSS\nMicro SD card slot, up to 128GB\n2.7~13.5mm varifocal lens\nMax IR LEDs Length 60m\nIP67, IK10(optional), POE\n"
+  },
+  
+  {
+    "name":"HDBW2531R-VFS/ZS",
+    "type":"Dahua IP Cameras",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20IP%20Cameras/HDBW2531R-VFS:ZS.png?raw=true",
+    "description":"Dome camera\n1/2.7” 5Megapixel progressive CMOS\nH.265 & H.264 dual-stream encoding\n20fps@5M (2592×1944) &25/30fps@3M (2304×1296)\nWDR(120dB), Day/Night(ICR), 3DNR, AWB, AGC, BLC\nMultiple network monitoring: Web viewer, CMS(DSS/PSS) & DMSS\nMicro SD card slot, up to 128GB\n2.7~13.5mm varifocal lens\nMax IR LEDs Length 30m\nIP67, IK10, POE\n"
+  },
+  
+  {
+    "name":"DH-IPC-HDW2531R-ZS",
+    "type":"Dahua IP Cameras",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20IP%20Cameras/DH-IPC-HDW2531R-ZS.png?raw=true",
+    "description":"Eyeball camera\n1/2.7” 5Megapixel progressive CMOS\nH.265& H.264 dual-stream encoding\n20fps@5M (2592×1944) &25/30fps@3M (2304×1296)\nWDR(120dB), Day/Night(ICR), 3DNR, AWB, AGC, BLC\nMultiple network monitoring: Web viewer, CMS(DSS/PSS) & DMSS\nMicro SD card slot, up to 128GB\n2.7~13.5mm varifocal lens\nMax IR LEDs Length 50m\n IP67, POE\n"
+  },
+  
+  {
+    "name":"DH-IPC-HF5431E-E",
+    "type":"Dahua IP Cameras",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20IP%20Cameras/DH-IPC-HF5431E-E.png?raw=true",
+    "description":"Box Camera\n1/3″ 4Megapixel progressive scan CMOS\nH.264&H.265 Triple-stream encoding\n25/30fps@4M (2688×1520)\nSmart Detection supported\nWDR(120dB), Day/Night(ICR), 3DNR, AWB, AGC, BLC\nMultiple network monitoring: Web viewer, CMS(DSS/PSS) & DMSS\n2/1 Alarm in/out, 1/1 audio in/out (Built-in Mic)\nAuto back focus(ABF)\nMicro SD memory, POE\n"
+  },
+  
+  {
+    "name":"DH – IPC- HFW5831E-ZE",
+    "type":"Dahua IP Cameras",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20IP%20Cameras/DH-IPC-HFW%205831E-ZE.png?raw=true",
+    "description":"Bullet camera\n1/2.5” 8Megapixel progressive scan STARVIS™ CMOS\nH.265&H.264 dual-stream encoding\n15fps@4K (3840×2160),25/30fps@3Mp (2304×1296)\nDay/Night(ICR), 3DNR, AWB, AGC, BLC\nMultiple network monitoring: Web viewer, CMS(DSS/PSS) & DMSS\n2.7mm ~12mm motorized lens\nMax. IR LEDs Length 50m\nMicro SD memory, IP67, IK10, POE\n"
+  },
+  
+  {
+    "name":"DH–IPC-HDBW5831E-ZE",
+    "type":"Dahua IP Cameras",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20IP%20Cameras/DH-IPC-HDBW%205831E-ZE.png?raw=true",
+    "description":"Dome Camera\n1/2.5” 8Megapixel progressive scan STARVIS™ CMOS\nH.265&H.264 dual-stream encoding\n15fps@4K (3840×2160),25/30fps@3M (2304×1296)\nDay/Night(ICR), 3DNR, AWB, AGC, BLC\nMultiple network monitoring: Web viewer, CMS(DSS/PSS) & DMSS\n2.7mm ~12mm motorized lens\nMax. IR LEDs Length 50m\nMicro SD card memory, IP67, IK10, PoE+\n"
+  },
+  
+  {
+    "name":"DH-IPC-HDW5831R-ZE",
+    "type":"Dahua IP Cameras",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20IP%20Cameras/DH-IPC-HDW%205831R-ZE.png?raw=true",
+    "description":"Eyeball Camera\n1/2.5” 8Megapixel progressive scan STARVIS™ CMOS\nH.265&H.264 dual-stream encoding\n15fps@4K (3840×2160),25/30fps@3M (2304×1296)\nDay/Night(ICR), 3DNR, AWB, AGC, BLC\nMultiple network monitoring: Web viewer, CMS(DSS/PSS) & DMSS\n2.7mm ~12mm motorized lens\nBuilt-in Mic\nMax. IR LEDs Length 50m\nMicro SD card memory, IP67, POE\n"
+  },
+  
+  {
+    "name":"IPC-PFW8601-A180",
+    "type":"Dahua IP Cameras",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20IP%20Cameras/IPC-PFW%208601-A180.png?raw=true",
+    "description":"Bullet Camera\nThree 1/2.8” 2Megapixel progressive scan STARVIS. CMOS\nH.265/H.264 triple-stream encoding\nMax 25/30fps@4096×832\nSupport 180-degree panoramic view\nDay/Night(ICR), 3DNR, AWB, AGC, BLC, WDR\nSmart detection\nIntelligent Function\nMax. IR LEDs length 30m\nMicro SD memory, IP67, IK10, POE+\n"
+  },
+  
+  {
+    "name":"IPC-PDBW8800-A180",
+    "type":"Dahua IP Cameras",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20IP%20Cameras/IPC-PDBW%208800-A180.png?raw=true",
+    "description":"Dome Camera\nFour 1/2.8” 2Megapixel progressive scan STARVIS™ CMOS\nH.265/H.264 triple-stream encoding\nMax 25fps@4096×1800\nSupport 180-degree panoramic view\nDay/Night(ICR), 3DNR, AWB, AGC, BLC\nSmart detection\nIntelligent Function\nMax. IR LEDs length 30m\nMicro SD memory, IP67, POE\n"
+  },
+  
+  {
+    "name":"DH-PSD81602-A360",
+    "type":"Dahua IP Cameras",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20IP%20Cameras/DH-PSD%2081602-A360.png?raw=true",
+    "description":"PTZ Camera\nPanoramic: Eight 1/1.9” 2Megapixel progressive scan CMOS\nPTZ: One 1/1.9” 2Megapixel progressive scan CMOS\nH.265/H.264 triple-stream encoding\n2x25fps@4096×1800+50/60fps@1080P\nSupport 360-degree panoramic view\nDay/Night(ICR), 3DNR, AWB, AGC, BLC\nSmart tracking\nIntelligent Function\nMicro SD memory, IP67, IK10\n"
+  },
+  
+  {
+    "name":"DH-IPC-EBW81230",
+    "type":"Dahua IP Cameras",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20IP%20Cameras/DH-IPC-EBW81230.png?raw=true",
+    "description":"Fisheye Camera\n1/1.7” 12Megapixel progressive scan STARVIS™ CMOS\nH.265/H.264 triple-stream encoding\nMax 25fps@12M(4000×3000)\nMultiple dewarped Mode\nDay/Night(ICR), 3DNR, AWB, AGC, BLC\nSmart detection\nIntelligent Function\nMax. IR LEDs length 10m\nMicro SD memory, IP67, IK10, POE\n"
+  }
 ]
