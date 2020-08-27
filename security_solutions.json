@@ -1,17 +1,25 @@
 [
   {
-    "name":"",
-    "type":"",
-    "brand":"",
-    "img":"",
-    "description":""
+    "name":"DHI-NVR4416/4432",
+    "type":"Dahua NVR",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20NVR/DHI-NVR4416:4432.png?raw=true",
+    "description":"H.265/H.264 codec decoding\nMax 200Mbps Incoming Bandwidth\nUp to 8MP Resolution for Preview and Playback\nHDMI/VGA simultaneous video output\nSupport IPC UPnP, 16PoE ports\nSupport ANR technology to enhance the storage reliabilitywhen the network breaks down\n"
   },
   
   {
-    "name":"",
-    "type":"",
-    "brand":"",
-    "img":"",
-    "description":""
-  }
+    "name":"DHI-NVR5208/5216/5232-8P-4KS2",
+    "type":"Dahua NVR",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20NVR/DHI-NVR%205208:5216:5232-8P-4KS2.png?raw=true",
+    "description":"H.265/H.264/MJPEG/MPEG4 codec decoding\nMax 320Mbps incoming bandwidth\nUp to12Mp resolution preview playback\nHDMI/VGA simultaneous video output\n3D intelligent positioning with Dahua PTZ camera\n"
+  },
+  
+  {
+    "name":"NVR616-64/128-4KS2",
+    "type":"Dahua NVR",
+    "brand":"Dahua Technologies",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Security/Dahua%20Technologies/Dahua%20NVR/NVR%20616-64:128-4KS2.png?raw=true",
+    "description":"Intel Processor\nMax 64/128 IP Camera Inputs\nMax 384Mbps Incoming Bandwidth\nUp to 12MP Resolution for Preview and Playback\nSupports RAID 0/1/5/6/10\niSCSI and Mini SAS for Expanded Storage Space\nSmart Tracking and Intelligent Video\n"
+  },
 ]
