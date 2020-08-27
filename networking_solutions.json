@@ -2,6 +2,7 @@
   {
     "name":"DH-PFS 4226 -24E T-240",
     "type":"Dahua Switches",
+    "brand":"Dahua",
     "img":"https://raw.githubusercontent.com/AntoineAntix/API_InfinityDistribution/master/Solutions/Networking/Dahua%20Switches/DH-PFS%204226%20-24E%20T-240.png",
     "description":"Layer 2 management POE switch \nPOE budget: 240W \nSupport POE, POE+, Hi-POE \nOrange port’ support Hi-POE, can be used with the POE  extender (PFT1300) \n250 meters long distance POE transmission \nPOE management, POE Setting/Event Statistics/Green POE \nSearch and upgrade via Config Tool \nSupport Web management\nHigh lightning protection design\nNon-blocking video transmission"
   },
@@ -9,6 +10,7 @@
   {
     "name":"DH-PFS3210-8GT-DP",
     "type":"Dahua Switches",
+    "brand":"Dahua",
     "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Networking/Dahua%20Switches/DH-PFS%203210%20-8GT%20-DP.png?raw=true",
     "description":"Industrial switch\nHigh EMC protection and lightning protection design\nNon-blocking video transmission\n45V~57V DC wide voltage design\nIP40 full metal enclosure, fully-sealed and dust proof design\n-30°C~+85°C wide working temperature design\nLightning protection up to level 4"
   },
@@ -16,6 +18,7 @@
   {
     "name":"PFM922",
     "type":"Dahua Cables",
+    "brand":"Dahua",
     "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Networking/Dahua%20Cables/PFM%20922.png?raw=true",
     "description":"Copper clad aluminum conductor\n305m UTP CAT6"
   },
@@ -23,6 +26,7 @@
   {
     "name":"PFM920I-6UN",
     "type":"Dahua Cables",
+    "brand":"Dahua",
     "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Networking/Dahua%20Cables/PFM%20920I-6UN.png?raw=true",
     "description":"305m UTP CAT6;\nSupport PoE long-distance transmission;\nExcellent OFC with 99.99% OFC (oxygen free copper) purity;\nEnvironmentally-friendly outer sheath, meet the CPR E /UL-CM class;\nTop-notch quality guarantee for 10 years."
   },
