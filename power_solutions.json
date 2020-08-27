@@ -1,17 +1,41 @@
 [
   {
-    "name":"",
-    "type":"",
-    "brand":"",
-    "img":"",
-    "description":""
+    "name":"SMV750I-GR",
+    "type":"APC: Line Interactive",
+    "brand":"APC by Schneider Electric ",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Line%20Interactive/SMVxAI-GR.png?raw=true",
+    "description":"UPS Models: SMV750I-GR\n\nOutput:\n\nPower Capacity: 525 W / 750 VA\nNominal Output Voltage: 230 VAC\nOutput Frequency Range (Batt. Mode): 50 Hz or 60 Hz ± 1 Hz\nTopology and output waveform: Line Interactive; sine wave\nTransfer Time: 2 – 6 ms, Typical\nOutput Connections: (6) IEC C13 or (4) Schuko or (4) Universal\n\nInput:\n\nInput Voltage: 220 – 240 VAC\nInput Frequency: 50/60 Hz (auto sensing) ±1Hz\nInput Voltage Range: 165-290 Vac±5Vac\nInput Connection: IEC C14\n\nBatteries:\n\nBattery Type: Maintenance-free sealed lead-acid battery\nTypical recharge time: 4-6 hours recover to 90% capacity\nFull Load Runtime (min): > 2 Mins 30 Secs\nBattery Connector: Yes\n\nCommunication And Management:\n\nUSB Port: Supports Windows® 2000/2003/XP/Vista/2008/7\nRS-232: Yes\nLCD Display: AC Mode, AVR Mode, Battery Mode, Battery Level, Load Level, Input Voltage, Output Voltage, System Error, Battery Malfunction\n\nPhysical:\n\nDimension DxWxH(mm): 410*160*220\nWeight (kgs): 13.6\n\nConformance:\n\nRegulatory: CE\nWarranty: 2 years"
   },
   
   {
-    "name":"",
-    "type":"",
-    "brand":"",
-    "img":"",
-    "description":""
+    "name":"SMV1000I-GR",
+    "type":"APC: Line Interactive",
+    "brand":"APC by Schneider Electric ",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Line%20Interactive/SMVxAI-GR.png?raw=true",
+    "description":"UPS Models: SMV1000I-GR\n\nOutput:\n\nPower Capacity: 700 W / 1000 VA\nNominal Output Voltage: 230 VAC\nOutput Frequency Range (Batt. Mode): 50 Hz or 60 Hz ± 1 Hz\nTopology and output waveform: Line Interactive; sine wave\nTransfer Time: 2 – 6 ms, Typical\nOutput Connections: (6) IEC C13 or (4) Schuko or (4) Universal\n\nInput:\n\nInput Voltage: 220 – 240 VAC\nInput Frequency: 50/60 Hz (auto sensing) ±1Hz\nInput Voltage Range: 165-290 Vac±5Vac\nInput Connection: IEC C14\n\nBatteries:\n\nBattery Type: Maintenance-free sealed lead-acid battery\nTypical recharge time: 4-6 hours recover to 90% capacity\nFull Load Runtime (min): > 2 Mins 30 Secs\nBattery Connector: Yes\n\nCommunication And Management:\n\nUSB Port: Supports Windows® 2000/2003/XP/Vista/2008/7\nRS-232: Yes\nLCD Display: AC Mode, AVR Mode, Battery Mode, Battery Level, Load Level, Input Voltage, Output Voltage, System Error, Battery Malfunction\n\nPhysical:\n\nDimension DxWxH(mm): 410*160*220\nWeight (kgs): 13.6\n\nConformance:\n\nRegulatory: CE\nWarranty: 2 years\n"
+  },
+  
+  {
+    "name":"SMV1500AI-GR",
+    "type":"APC: Line Interactive",
+    "brand":"APC by Schneider Electric ",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Line%20Interactive/SMVxAI-GR.png?raw=true",
+    "description":"UPS Models: SMV1500AI-GR\n\nOutput:\n\nPower Capacity: 1050 W / 1500 VA\nNominal Output Voltage: 230 VAC\nOutput Frequency Range (Batt. Mode): 50 Hz or 60 Hz ± 1 Hz\nTopology and output waveform: Line Interactive; sine wave\nTransfer Time: 2 – 6 ms, Typical\nOutput Connections: (6) IEC C13 or (4) Schuko or (4) Universal\n\nInput:\n\nInput Voltage: 220 – 240 VAC\nInput Frequency: 50/60 Hz (auto sensing) ±1Hz\nInput Voltage Range: 165-290 Vac±5Vac\nInput Connection: IEC C14\n\nBatteries:\n\nBattery Type: Maintenance-free sealed lead-acid battery\nTypical recharge time: 4-6 hours recover to 90% capacity\nFull Load Runtime (min): > 2 Mins 30 Secs\nBattery Connector: Yes\n\nCommunication And Management:\n\nUSB Port: Supports Windows® 2000/2003/XP/Vista/2008/7\nRS-232: Yes\nLCD Display: AC Mode, AVR Mode, Battery Mode, Battery Level, Load Level, Input Voltage, Output Voltage, System Error, Battery Malfunction\n\nPhysical:\n\nDimension DxWxH(mm): 410*160*220\nWeight (kgs): 17.8\n\nConformance:\n\nRegulatory: CE\nWarranty: 2 years\n"
+  },
+  
+  {
+    "name":"SMV2000AI-GR",
+    "type":"APC: Line Interactive",
+    "brand":"APC by Schneider Electric ",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Line%20Interactive/SMVxAI-GR.png?raw=true",
+    "description":"UPS Models: SMV2000AI-GR\n\nOutput:\n\nPower Capacity: 1400 W / 2000 VA\nNominal Output Voltage: 230\nOutput Frequency Range (Batt. Mode): 50 Hz or 60 Hz ± 1 Hz\nTopology and output waveform: Line Interactive; sine wave\nTransfer Time: 2 – 6 ms, Typical\nOutput Connections: (6) IEC C13 or (4) Schuko or (6) Universal\n\nInput:\n\nInput Voltage: 220 – 240 VAC\nInput Frequency: 50/60 Hz (auto sensing) ±1Hz\nInput Voltage Range: 165-295 Vac±8Vac\nInput Connection: IEC C14\n\nBatteries:\n\nBattery Type: Maintenance-free sealed lead-acid battery\nTypical recharge time: 4-6 hours recover to 90% capacity\nFull Load Runtime (min): > 2 Mins 30 Secs\nBattery Connector: Yes\n\nCommunication And Management:\n\nUSB Port: Supports Windows® 2000/2003/XP/Vista/2008/7\nRS-232: Yes\nLCD Display: AC Mode, AVR Mode, Battery Mode, Battery Level, Load Level, Input Voltage, Output Voltage, System Error, Battery Malfunction\n\nPhysical:\n\nDimension DxWxH(mm): 455*180*240\nWeight (kgs): 26.9\n\nConformance:\n\nRegulatory: CE\nWarranty: 2 years\n"
+  },
+  
+  {
+    "name":"SMV3000AI-GR",
+    "type":"APC: Line Interactive",
+    "brand":"APC by Schneider Electric ",
+    "img":"https://github.com/AntoineAntix/API_InfinityDistribution/blob/master/Solutions/Power/APC%20by%20Schneider%20Electric/APC%20Line%20Interactive/SMVxAI-GR.png?raw=true",
+    "description":"UPS Models: SMV3000AI-GR\n\nOutput:\n\nPower Capacity: 2100 W / 3000 VA\nNominal Output Voltage: 230\nOutput Frequency Range (Batt. Mode): 50 Hz or 60 Hz ± 1 Hz\nTopology and output waveform: Line Interactive; sine wave\nTransfer Time: 2 – 6 ms, Typical\nOutput Connections: (6) IEC C13 or (4) Schuko or (6) Universal\n\nInput:\n\nInput Voltage: 220 – 240 VAC\nInput Frequency: 50/60 Hz (auto sensing) ±1Hz\nInput Voltage Range: 165-295 Vac±8Vac\nInput Connection: IEC C20\n\nBatteries:\n\nBattery Type: Maintenance-free sealed lead-acid battery\nTypical recharge time: 4-6 hours recover to 90% capacity\nFull Load Runtime (min): > 2 Mins 30 Secs\nBattery Connector: Yes\n\nCommunication And Management:\n\nUSB Port: Supports Windows® 2000/2003/XP/Vista/2008/7\nRS-232: Yes\nLCD Display: AC Mode, AVR Mode, Battery Mode, Battery Level, Load Level, Input Voltage, Output Voltage, System Error, Battery Malfunction\n\nPhysical:\n\nDimension DxWxH(mm): 455*180*240\nWeight (kgs): 28.9\n\nConformance:\n\nRegulatory: CE\nWarranty: 2 years\n"
   }
 ]
